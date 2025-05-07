@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Bot token
-TOKEN = "7611838639:AAHt8IiHtlF5w9426WLx5vsSNowaO6cITSw"
+TOKEN = ""
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
